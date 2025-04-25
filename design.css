@@ -8,10 +8,12 @@ p{
 h1{
     text-align: center;
     text-decoration-color: aquamarine;
+    font-style: inherit;
 }
 
 *{
     background-color:black;
     text-align: center;
+    font-size: larger;
 
 }
