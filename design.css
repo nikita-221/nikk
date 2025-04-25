@@ -1,0 +1,17 @@
+p{
+    background-color: aqua;
+    text-decoration: dotted;
+    text-align: center;
+    text-decoration-color: yellowgreen;
+}
+
+h1{
+    text-align: center;
+    text-decoration-color: aquamarine;
+}
+
+*{
+    background-color:black;
+    text-align: center;
+
+}
